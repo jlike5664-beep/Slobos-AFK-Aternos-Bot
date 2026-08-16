@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "BROTHER3212.aternos.me",
-    "port": 54901,
+    "port": 20337,
     "version": "1.21.11",
     "try-creative": false
   },
